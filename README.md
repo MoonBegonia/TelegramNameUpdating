@@ -14,9 +14,9 @@ Update (first/last/user) name of Telegram user every 30 seconds.
 
 ## 1. 下载Demo小程序到VPS上
 
-```
-git clone https://github.com/xyou365/Telegram-Name-Updating.git
-cd Telegram-Name-Updating
+``` bash
+git clone https://github.com/MoonBegonia/TelegramNameUpdating.git
+cd TelegramNameUpdating
 ```
 
 ## 2. 安装telethon
